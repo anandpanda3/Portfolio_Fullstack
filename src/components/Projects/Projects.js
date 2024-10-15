@@ -80,8 +80,8 @@ function Projects() {
             <ProjectCard
               imgPath={bookmarker}
               isBlog={false}
-              title="Face Recognition and Emotion Detection"
-              description="he YT-Bookmarker is a browser extension designed to help users bookmark and manage specific moments in YouTube videos. It allows users to save timestamps and add notes for easy reference, making it perfect for students, professionals, or content creators who want to revisit specific parts of videos. "
+              title="YT Bookmarker"
+              description="The YT-Bookmarker is a browser extension designed to help users bookmark and manage specific moments in YouTube videos. It allows users to save timestamps and add notes for easy reference, making it perfect for students, professionals, or content creators who want to revisit specific parts of videos. "
               ghLink="https://github.com/anandpanda3/YT-Bookmarker"
               demoLink="https://chromewebstore.google.com/detail/youtube-bookmarker/peohjdmkchbdleoobfpfjifdeocagafc"
             />
